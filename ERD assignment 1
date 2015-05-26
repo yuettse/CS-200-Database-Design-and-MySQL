@@ -1,0 +1,4 @@
+Assignment: Books
+We want to create a web application that allows users to see a list of different books (each book has a title and the author name). We also want the users to save a list of their favorite books. 
+
+Please create necessary ERD for this application using MySQL Workbench
