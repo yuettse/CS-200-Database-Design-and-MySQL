@@ -1,0 +1,33 @@
+USE
+SELECT 
+* = all
+FROM
+as
+WHERE something = something
+ORDER BY = SORT
+DESC
+ASC
+
+UPDATE something
+SET SOMETHING = SOMETHING
+ WHERE SOMETHING = SOMETHING
+
+
+
+REMOVE SAFE
+SET SQL_SAFE_UPDATES = 0;
+
+
+SELECT CONCAT('',,'','')
+	""   _WS
+	"" LENGTH
+	:: LOWER
+
+SELECT HOUR/DAYNAME/MONTH
+NOW()
+
+select date_format(something, '%something something')
+
+join
+left join
+as
